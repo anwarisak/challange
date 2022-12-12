@@ -12,6 +12,12 @@ waxaan aqriyey labo chapter oo ah buuga UI waxaana ka faa'iiday waxyaabo badan
 
 sidoo kale waxaan aqriyey sadax chapter oo buuga html-ka waxaana ka faa'iiday waxyaabo badan
 
+day 3
+
+waxaan aqriyey hal chapter oo ah buuga UI 
+
+sidoo kale waxaan aqriyey labo chapter oo buuga html-ka waxaana ka faa'iiday waxyaabo badan maanta waa maalintii sadaxaad
+
 
 
 
