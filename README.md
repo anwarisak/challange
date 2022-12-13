@@ -18,6 +18,12 @@ waxaan aqriyey hal chapter oo ah buuga UI
 
 sidoo kale waxaan aqriyey labo chapter oo buuga html-ka waxaana ka faa'iiday waxyaabo badan maanta waa maalintii sadaxaad
 
+day 4
+
+waxaan aqriyey hal chapter oo ah buuga UI 
+
+gaar ahaan Component Gallery waxaana ka faa'iiday waxyaabo badan.
+
 
 
 
