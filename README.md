@@ -24,6 +24,11 @@ waxaan aqriyey hal chapter oo ah buuga UI
 
 gaar ahaan Component Gallery waxaana ka faa'iiday waxyaabo badan.
 
+day 5
+
+waxaan aqriyey hal chapter oo ah buuga UI 
+
+
 
 
 
